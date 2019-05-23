@@ -1,0 +1,8 @@
+/debug/
+/release/
+*.pro.user
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+/object_script.canvas_variant.Debug
+/object_script.canvas_variant.Release
